@@ -1,0 +1,223 @@
+{
+  "player": {
+    "MAX_HEROES": 3,
+    "heroes": [
+      {
+        "symbol": "a",
+        "army": [
+          {
+            "type": "Копейщик",
+            "unitLevel": 1,
+            "health": 100,
+            "damage": 10,
+            "movement": 2,
+            "attackRange": 1
+          }
+        ],
+        "x": 0,
+        "y": 0,
+        "heroesStamina": 100,
+        "isInCastle": true,
+        "isInOpponentsCastle": false,
+        "moveIsMade": false,
+        "isEnemy": false,
+        "health": 100,
+        "dist": 5,
+        "fastCastleCapturing": false
+      }
+    ],
+    "playersNumOfHeroes": 1,
+    "playersGold": 5000,
+    "Name": "a"
+  },
+  "enemy": {
+    "MAX_HEROES": 1,
+    "heroes": [
+      {
+        "symbol": "A",
+        "army": [
+          {
+            "type": "Копейщик",
+            "unitLevel": 1,
+            "health": 100,
+            "damage": 10,
+            "movement": 2,
+            "attackRange": 1
+          },
+          {
+            "type": "Копейщик",
+            "unitLevel": 1,
+            "health": 100,
+            "damage": 10,
+            "movement": 2,
+            "attackRange": 1
+          },
+          {
+            "type": "Копейщик",
+            "unitLevel": 1,
+            "health": 100,
+            "damage": 10,
+            "movement": 2,
+            "attackRange": 1
+          }
+        ],
+        "x": 9,
+        "y": 6,
+        "heroesStamina": 91,
+        "isInCastle": false,
+        "isInOpponentsCastle": true,
+        "moveIsMade": true,
+        "isEnemy": true,
+        "health": 100,
+        "dist": 5,
+        "fastCastleCapturing": false
+      }
+    ],
+    "enemyNumOfHeroes": 1,
+    "enemyGold": 4300,
+    "stableBuilt": false,
+    "watchtowerBuilt": true,
+    "crossbowTowerBuilt": false,
+    "armoryBuilt": false,
+    "arenaBuilt": false,
+    "cathedralBuilt": false,
+    "trainingFieldBuilt": false
+  },
+  "blackKnight": {
+    "blackKnightSpawnChance": 1.0,
+    "blackKnightRansom": 350,
+    "blackKnightHasAppeared": false,
+    "isBlackKnightDead": false,
+    "threeMoveLeft": 0,
+    "knightX": 9,
+    "knightY": 6
+  },
+  "currentField": {
+    "heightOfField": 10,
+    "widthOfField": 10,
+    "field": [
+      [
+        "И",
+        "$",
+        "$",
+        "$",
+        "$",
+        ".",
+        ".",
+        "*",
+        "^",
+        "."
+      ],
+      [
+        "o",
+        "$",
+        "$",
+        "$",
+        "$",
+        ".",
+        ".",
+        ".",
+        ".",
+        "."
+      ],
+      [
+        "$",
+        "o",
+        "o",
+        "$",
+        "$",
+        "*",
+        ".",
+        ".",
+        ".",
+        "."
+      ],
+      [
+        "$",
+        "$",
+        "$",
+        "o",
+        ".",
+        "^",
+        ".",
+        ".",
+        "*",
+        "."
+      ],
+      [
+        "$",
+        "$",
+        "$",
+        ".",
+        "o",
+        "o",
+        ".",
+        ".",
+        ".",
+        "^"
+      ],
+      [
+        ".",
+        ".",
+        "^",
+        ".",
+        ".",
+        "^",
+        "o",
+        "#",
+        "#",
+        "#"
+      ],
+      [
+        ".",
+        ".",
+        ".",
+        ".",
+        ".",
+        "^",
+        "o",
+        "o",
+        "o",
+        "#"
+      ],
+      [
+        ".",
+        ".",
+        ".",
+        ".",
+        "^",
+        "#",
+        "#",
+        "#",
+        "o",
+        "o"
+      ],
+      [
+        ".",
+        ".",
+        ".",
+        ".",
+        ".",
+        "#",
+        "#",
+        "#",
+        "#",
+        "o"
+      ],
+      [
+        ".",
+        ".",
+        ".",
+        ".",
+        ".",
+        "#",
+        "#",
+        "#",
+        "#",
+        "К"
+      ]
+    ],
+    "mapName": ""
+  },
+  "currentMapName": ""
+}
