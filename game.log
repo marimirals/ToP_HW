@@ -1,0 +1,344 @@
+мая 22, 2025 1:06:32 PM Main main
+INFO: Запуск игры...
+мая 22, 2025 1:09:07 PM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+мая 22, 2025 1:09:07 PM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+мая 22, 2025 1:09:07 PM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+мая 22, 2025 1:09:07 PM GameProcess.GameProcess startGame
+FINE: Ход игрока
+мая 22, 2025 1:09:29 PM characters.Player moveHero
+INFO: Попытка перемещения героя a в координаты (1, 1)
+мая 22, 2025 1:09:34 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 22, 2025 1:49:53 PM Main main
+INFO: Запуск игры...
+мая 22, 2025 1:50:30 PM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+мая 22, 2025 1:50:30 PM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+мая 22, 2025 1:50:30 PM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+мая 22, 2025 1:50:30 PM GameProcess.GameProcess startGame
+FINE: Ход игрока
+мая 22, 2025 1:51:16 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 23, 2025 11:43:45 PM Main main
+INFO: Запуск игры...
+мая 23, 2025 11:44:17 PM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+мая 23, 2025 11:44:17 PM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+мая 23, 2025 11:44:17 PM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+мая 23, 2025 11:44:17 PM GameProcess.GameProcess startGame
+FINE: Ход игрока
+мая 23, 2025 11:47:09 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 23, 2025 11:56:55 PM Main main
+INFO: Запуск игры...
+мая 23, 2025 11:57:02 PM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+мая 23, 2025 11:57:02 PM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+мая 23, 2025 11:57:02 PM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+мая 23, 2025 11:57:02 PM GameProcess.GameProcess startGame
+FINE: Ход игрока
+мая 23, 2025 11:57:31 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 24, 2025 12:04:27 AM Main main
+INFO: Запуск игры...
+мая 24, 2025 12:04:52 AM Main main
+INFO: Запуск игры...
+мая 24, 2025 12:08:48 AM Main main
+INFO: Запуск игры...
+мая 24, 2025 12:08:53 AM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+мая 24, 2025 12:08:53 AM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+мая 24, 2025 12:08:53 AM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+мая 24, 2025 12:08:53 AM GameProcess.GameProcess startGame
+FINE: Ход игрока
+мая 24, 2025 12:09:19 AM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 24, 2025 12:13:14 AM Main main
+INFO: Запуск игры...
+мая 24, 2025 12:13:41 AM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+мая 24, 2025 12:13:41 AM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+мая 24, 2025 12:13:41 AM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+мая 24, 2025 12:13:41 AM GameProcess.GameProcess startGame
+FINE: Ход игрока
+мая 24, 2025 12:14:20 AM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 24, 2025 12:27:31 AM Main main
+INFO: Запуск игры...
+мая 24, 2025 12:27:36 AM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+мая 24, 2025 12:27:36 AM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+мая 24, 2025 12:27:36 AM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+мая 24, 2025 12:27:36 AM GameProcess.GameProcess startGame
+FINE: Ход игрока
+мая 24, 2025 12:28:31 AM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 24, 2025 12:52:32 AM Main main
+INFO: Запуск игры...
+мая 24, 2025 12:52:37 AM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+мая 24, 2025 12:52:37 AM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+мая 24, 2025 12:52:37 AM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+мая 24, 2025 12:52:37 AM GameProcess.GameProcess startGame
+FINE: Ход игрока
+мая 24, 2025 12:53:00 AM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 24, 2025 12:55:15 AM Main main
+INFO: Запуск игры...
+мая 24, 2025 12:55:19 AM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+мая 24, 2025 12:55:19 AM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+мая 24, 2025 12:55:19 AM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+мая 24, 2025 12:55:19 AM GameProcess.GameProcess startGame
+FINE: Ход игрока
+мая 24, 2025 12:55:44 AM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 24, 2025 1:04:55 AM Main main
+INFO: Запуск игры...
+мая 24, 2025 1:04:59 AM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+мая 24, 2025 1:04:59 AM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+мая 24, 2025 1:04:59 AM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+мая 24, 2025 1:04:59 AM GameProcess.GameProcess startGame
+FINE: Ход игрока
+мая 24, 2025 1:05:20 AM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 24, 2025 1:10:15 AM Main main
+INFO: Запуск игры...
+мая 24, 2025 1:10:19 AM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+мая 24, 2025 1:10:19 AM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+мая 24, 2025 1:10:19 AM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+мая 24, 2025 1:10:19 AM GameProcess.GameProcess startGame
+FINE: Ход игрока
+мая 24, 2025 1:11:07 AM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 24, 2025 1:15:56 AM Main main
+INFO: Запуск игры...
+мая 24, 2025 1:16:00 AM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+мая 24, 2025 1:16:00 AM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+мая 24, 2025 1:16:00 AM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+мая 24, 2025 1:16:00 AM GameProcess.GameProcess startGame
+FINE: Ход игрока
+мая 24, 2025 1:17:24 AM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+июн. 07, 2025 12:53:02 PM Main main
+INFO: Запуск игры...
+июн. 07, 2025 12:53:41 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+июн. 07, 2025 1:58:29 PM Main main
+INFO: Запуск игры...
+июн. 07, 2025 1:59:07 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+июн. 09, 2025 12:24:24 PM org.junit.jupiter.engine.execution.ConditionEvaluator logResult
+FINER: Evaluation of condition [org.junit.jupiter.engine.extension.DisabledCondition] on [void test.CardGamePrivateMethodTest.testClearInputBuffer()] resulted in: ConditionEvaluationResult [enabled = true, reason = '@Disabled is not present']
+июн. 09, 2025 12:24:24 PM test.CardGamePrivateMethodTest testClearInputBuffer
+INFO: Приватный метод clearInputBuffer() успешно вызван через рефлексию
+июн. 09, 2025 12:24:24 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 0
+java.lang.Throwable: Runtime.exit(0)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Runtime.exit(Runtime.java:188)
+	at java.base/java.lang.System.exit(System.java:1923)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:56)
+
+июн. 09, 2025 1:53:11 PM Main main
+INFO: Запуск игры...
+июн. 09, 2025 1:53:17 PM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+июн. 09, 2025 1:53:17 PM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+июн. 09, 2025 1:53:17 PM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+июн. 09, 2025 1:53:17 PM GameProcess.GameProcess startGame
+FINE: Ход игрока
+июн. 09, 2025 1:54:16 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+июн. 09, 2025 1:56:40 PM Main main
+INFO: Запуск игры...
+июн. 09, 2025 1:56:44 PM GameProcess.GameProcess startGame
+INFO: Начало игры на карте: default
+июн. 09, 2025 1:56:44 PM GameProcess.GameProcess startGame
+WARNING: Ошибка загрузки карты: maps\default.json (Не удается найти указанный файл)
+июн. 09, 2025 1:56:44 PM GameProcess.GameProcess startGame
+INFO: Создание новой карты 'default'
+июн. 09, 2025 1:56:44 PM GameProcess.GameProcess startGame
+FINE: Ход игрока
+июн. 09, 2025 1:57:40 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+июн. 10, 2025 12:22:38 PM org.junit.jupiter.engine.execution.ConditionEvaluator logResult
+FINER: Evaluation of condition [org.junit.jupiter.engine.extension.DisabledCondition] on [void test.CardGamePrivateMethodTest.testClearInputBuffer()] resulted in: ConditionEvaluationResult [enabled = true, reason = '@Disabled is not present']
+июн. 10, 2025 12:22:38 PM test.CardGamePrivateMethodTest testClearInputBuffer
+INFO: Приватный метод clearInputBuffer() успешно вызван через рефлексию
+июн. 10, 2025 12:22:38 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 0
+java.lang.Throwable: Runtime.exit(0)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Runtime.exit(Runtime.java:188)
+	at java.base/java.lang.System.exit(System.java:1923)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:56)
+
+июн. 10, 2025 3:10:34 PM org.junit.jupiter.engine.execution.ConditionEvaluator logResult
+FINER: Evaluation of condition [org.junit.jupiter.engine.extension.DisabledCondition] on [void test.CardGamePrivateMethodTest.testClearInputBuffer()] resulted in: ConditionEvaluationResult [enabled = true, reason = '@Disabled is not present']
+июн. 10, 2025 3:10:34 PM test.CardGamePrivateMethodTest testClearInputBuffer
+INFO: Приватный метод clearInputBuffer() успешно вызван через рефлексию
+июн. 10, 2025 3:10:34 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 0
+java.lang.Throwable: Runtime.exit(0)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Runtime.exit(Runtime.java:188)
+	at java.base/java.lang.System.exit(System.java:1923)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:56)
+
+июн. 10, 2025 3:10:43 PM Main main
+INFO: Запуск игры...
+июн. 10, 2025 3:10:47 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
